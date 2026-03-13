@@ -23,7 +23,7 @@ h1{
 .main {
   display: flex;               /* side-by-side layout */
   align-items: center;         /* vertically align image and text */
-  justify-content:    /* center horizontally in the page */
+  justify-content:center;    /* center horizontally in the page */
   gap: 20px;                   /* space between image and text */
   padding-left: 40px;               /* optional padding around the section */
   padding-right: 5px;
