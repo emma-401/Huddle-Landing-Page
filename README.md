@@ -25,7 +25,7 @@ Huddle-Landing-Page/
 1. Clone the repo: `git clone https://github.com/emma-401/Huddle-Landing-Page.git`
 2. Open `index.html` in a browser
 
-This is a challenge from Front-end Mentor which involved me replicating a design to look like the original image. 
+This is a challenge from Front-end Mentor which involved me replicating a design to look like the original image above as shown in the screenshoot. 
 
 The design is replicating a Huddle Landing Page with Single Introductory Section. It's original design is found in the image folder. The goal of this design is to practise FLexbos by creating responsive layout.
 
